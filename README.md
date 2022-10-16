@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Lumberjack Programmer github stats](https://github-readme-stats.vercel.app/api?username=lumberjack_programmer&show_icons=true&hide_border=true)
+![Lumberjack Programmer github stats](https://github-readme-stats.vercel.app/api?username=lumberjack-programmer&show_icons=true&hide_border=true)
